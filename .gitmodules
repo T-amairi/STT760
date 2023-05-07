@@ -1,0 +1,3 @@
+[submodule "STT760-MathForAI"]
+	path = STT760-MathForAI
+	url = https://github.com/darhal/STT760-MathForAI
